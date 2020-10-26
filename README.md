@@ -1,2 +1,3 @@
 # Hacktober-Fest-2
-Add your name here
+Name : Anas Ardi
+Location : Indonesia
